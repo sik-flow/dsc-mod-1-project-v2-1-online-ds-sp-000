@@ -41,6 +41,8 @@ Sources Used:
 3. Which genres have the highest average profits, and does production budget have an effect on the profit?
 4. How are average rating, popularity, and the length of a movie linked to the profit of a movie?
 
+![my_image](img/graph.png)
+
 ## Conclusion
 
 
