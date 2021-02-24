@@ -1,5 +1,7 @@
 # Module 1 Final Project
 
+![microsoft_logo](/img/microsoft.png)
+
 ## Microsoft Movie Studio
 
 ### Table of Contents
